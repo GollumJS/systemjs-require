@@ -1,0 +1,27 @@
+{
+  "name": "systemjs-require",
+  "version": "1.0.0",
+  "description": "Add function require for systemjs",
+  "main": "systemjs-require.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GollumJS/systemjs-require.git"
+  },
+  "keywords": [
+    "SystemJS",
+    "require"
+  ],
+  "author": "Damien Duboeuf <smeagolworms4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GollumJS/systemjs-require/issues"
+  },
+  "homepage": "https://github.com/GollumJS/systemjs-require#readme",
+  "files": [
+    "package.json",
+    "LICENSE",
+    "systemjs-require.js"
+  ]
+}
