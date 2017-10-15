@@ -8,6 +8,10 @@
 		return modules[key];
 	};
 	
+	window.require.exist = (key) => {
+		return !!modules[key];
+	};
+	
 	var origin   = System.register;
 	var originJS = SystemJS.register;
 	
