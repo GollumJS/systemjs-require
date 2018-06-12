@@ -8,7 +8,7 @@
 		return modules[key];
 	};
 	
-	window.require.exist = (key) => {
+	window.require.exist = function(key) {
 		return !!modules[key];
 	};
 	
